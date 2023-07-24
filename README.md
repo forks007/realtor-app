@@ -24,7 +24,7 @@
 
 ## Description
 
-Realtor App
+# Realtor App
 
--Role management system
--Postgre sql database integration
+- Role management system
+- Postgre sql database integration
