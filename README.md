@@ -28,12 +28,3 @@ Realtor App
 
 -Role management system
 -Postgre sql database integration
-
-
-## Running the app
-
-
-
-## Stay in touch
-
-- Author -
